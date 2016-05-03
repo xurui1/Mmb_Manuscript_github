@@ -1,6 +1,0 @@
-load 'fA5.dat';
-
-curv = fA5(:,1);
-curv = curv./4.3
-
-%plot
