@@ -1,0 +1,292 @@
+\begin{thebibliography}{43}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Lipowsky(1998)]{lipowsky1998vesicles}
+R~Lipowsky.
+\newblock Vesicles and biomembranes.
+\newblock \emph{Encyclopedia of Applied Physics}, 23:\penalty0 199--222, 1998.
+
+\bibitem[Koga and Morii(2007)]{koga2007biosynthesis}
+Yosuke Koga and Hiroyuki Morii.
+\newblock Biosynthesis of ether-type polar lipids in archaea and evolutionary
+  considerations.
+\newblock \emph{Microbiology and Molecular Biology Reviews}, 71\penalty0
+  (1):\penalty0 97--120, 2007.
+
+\bibitem[Gliozzi et~al.(2002)Gliozzi, Relini, and Chong]{gliozzi2002structure}
+Alessandra Gliozzi, Annalisa Relini, and Parkson Lee-Gau Chong.
+\newblock Structure and permeability properties of biomimetic membranes of
+  bolaform archaeal tetraether lipids.
+\newblock \emph{Journal of Membrane Science}, 206\penalty0 (1):\penalty0
+  131--147, 2002.
+
+\bibitem[Oger and Cario(2013)]{oger2013adaptation}
+Philippe~M Oger and Ana{\"\i}s Cario.
+\newblock Adaptation of the membrane in archaea.
+\newblock \emph{Biophysical chemistry}, 183:\penalty0 42--56, 2013.
+
+\bibitem[van~de Vossenberg et~al.(1998)van~de Vossenberg, Driessen, and
+  Konings]{van1998essence}
+Jack~LCM van~de Vossenberg, Arnold~JM Driessen, and Wil~N Konings.
+\newblock The essence of being extremophilic: the role of the unique archaeal
+  membrane lipids.
+\newblock \emph{Extremophiles}, 2\penalty0 (3):\penalty0 163--170, 1998.
+
+\bibitem[De~Rosa et~al.(1986)De~Rosa, Gambacorta, and Gliozzi]{de1986structure}
+MARIO De~Rosa, A~Gambacorta, and A~Gliozzi.
+\newblock Structure, biosynthesis, and physicochemical properties of
+  archaebacterial lipids.
+\newblock \emph{Microbiological Reviews}, 50\penalty0 (1):\penalty0 70, 1986.
+
+\bibitem[Schneider et~al.(1984)Schneider, Jenkins, and
+  Webb]{schneider1984thermal}
+MB~Schneider, JT~Jenkins, and WW~Webb.
+\newblock Thermal fluctuations of large cylindrical phospholipid vesicles.
+\newblock \emph{Biophysical journal}, 45\penalty0 (5):\penalty0 891, 1984.
+
+\bibitem[Faucon et~al.(1989)Faucon, Mitov, M{\'e}l{\'e}ard, Bivas, and
+  Bothorel]{faucon1989bending}
+JF~Faucon, MD~Mitov, P~M{\'e}l{\'e}ard, I~Bivas, and P~Bothorel.
+\newblock Bending elasticity and thermal fluctuations of lipid membranes.
+  theoretical and experimental requirements.
+\newblock \emph{Journal de physique}, 50\penalty0 (17):\penalty0 2389--2414,
+  1989.
+
+\bibitem[Rheinst{\"a}dter et~al.(2006)Rheinst{\"a}dter, H{\"a}u{\ss}ler, and
+  Salditt]{rheinstadter2006dispersion}
+Maikel~C Rheinst{\"a}dter, Wolfgang H{\"a}u{\ss}ler, and Tim Salditt.
+\newblock Dispersion relation of lipid membrane shape fluctuations by neutron
+  spin-echo spectrometry.
+\newblock \emph{Physical review letters}, 97\penalty0 (4):\penalty0 048103,
+  2006.
+
+\bibitem[Bo and Waugh(1989)]{bo1989determination}
+Lin Bo and Richard~E Waugh.
+\newblock Determination of bilayer membrane bending stiffness by tether
+  formation from giant, thin-walled vesicles.
+\newblock \emph{Biophysical journal}, 55\penalty0 (3):\penalty0 509--517, 1989.
+
+\bibitem[Cuvelier et~al.(2005)Cuvelier, Der{\'e}nyi, Bassereau, and
+  Nassoy]{cuvelier2005coalescence}
+Damien Cuvelier, Imre Der{\'e}nyi, Patricia Bassereau, and Pierre Nassoy.
+\newblock Coalescence of membrane tethers: experiments, theory, and
+  applications.
+\newblock \emph{Biophysical journal}, 88\penalty0 (4):\penalty0 2714--2726,
+  2005.
+
+\bibitem[Bode et~al.(2008)Bode, Buddoo, Minnaar, and
+  du~Plessis]{bode2008extraction}
+Moira~L Bode, Subash~R Buddoo, Sanet~H Minnaar, and Chris~A du~Plessis.
+\newblock Extraction, isolation and nmr data of the tetraether lipid
+  calditoglycerocaldarchaeol (gdnt) from sulfolobus metallicus harvested from a
+  bioleaching reactor.
+\newblock \emph{Chemistry and physics of lipids}, 154\penalty0 (2):\penalty0
+  94--104, 2008.
+
+\bibitem[Duwe et~al.(1990)Duwe, Kaes, and Sackmann]{duwe1990bending}
+HP~Duwe, J~Kaes, and E~Sackmann.
+\newblock Bending elastic moduli of lipid bilayers: modulation by solutes.
+\newblock \emph{Journal de Physique}, 51\penalty0 (10):\penalty0 945--961,
+  1990.
+
+\bibitem[Berkowitz et~al.(1993)Berkowitz, Pan, and Bittman]{berkowitz1993new}
+William~F Berkowitz, Dongfeng Pan, and Robert Bittman.
+\newblock A new approach to archaebacterial lipid models.
+\newblock \emph{Tetrahedron letters}, 34\penalty0 (27):\penalty0 4297--4300,
+  1993.
+
+\bibitem[Yamauchi and Kinoshita(1993)]{yamauchi1993highly}
+Kiyoshi Yamauchi and Masayoshi Kinoshita.
+\newblock Highly stable lipid membranes from archaebacterial extremophiles.
+\newblock \emph{Progress in polymer science}, 18\penalty0 (4):\penalty0
+  763--804, 1993.
+
+\bibitem[Mukhin and Kheyfets(2010)]{mukhin2010analytical}
+Sergei~I Mukhin and Boris~B Kheyfets.
+\newblock Analytical approach to thermodynamics of bolalipid membranes.
+\newblock \emph{Physical Review E}, 82\penalty0 (5):\penalty0 051901, 2010.
+
+\bibitem[Longo et~al.(2007)Longo, Thompson, and Szleifer]{longo2007stability}
+Gabriel~S Longo, David~H Thompson, and I~Szleifer.
+\newblock Stability and phase separation in mixed monopolar lipid/bolalipid
+  layers.
+\newblock \emph{Biophysical journal}, 93\penalty0 (8):\penalty0 2609--2621,
+  2007.
+
+\bibitem[Bulacu et~al.(2011)Bulacu, Périole, and Marrink]{bulacu2011silico}
+Monica Bulacu, Xavier Périole, and Siewert~J Marrink.
+\newblock In silico design of robust bolalipid membranes.
+\newblock \emph{Biomacromolecules}, 13\penalty0 (1):\penalty0 196--205, 2011.
+
+\bibitem[Chugunov et~al.(2014)Chugunov, Volynsky, Krylov, Boldyrev, and
+  Efremov]{chugunov2014liquid}
+Anton~O Chugunov, Pavel~E Volynsky, Nikolay~A Krylov, Ivan~A Boldyrev, and
+  Roman~G Efremov.
+\newblock Liquid but durable: Molecular dynamics simulations explain the unique
+  properties of archaeal-like membranes.
+\newblock \emph{Scientific reports}, 4, 2014.
+
+\bibitem[Li et~al.(2013)Li, Pastor, Shi, Schmid, and Zhou]{li2013elastic}
+Jianfeng Li, Kyle~A Pastor, An-Chang Shi, Friederike Schmid, and Jiajia Zhou.
+\newblock Elastic properties and line tension of self-assembled bilayer
+  membranes.
+\newblock \emph{Physical Review E}, 88\penalty0 (1):\penalty0 012718, 2013.
+
+\bibitem[Dehghan et~al.(2015)Dehghan, Pastor, and Shi]{dehghan2015line}
+Ashkan Dehghan, Kyle~A Pastor, and An-Chang Shi.
+\newblock Line tension of multicomponent bilayer membranes.
+\newblock \emph{Physical Review E}, 91\penalty0 (2):\penalty0 022713, 2015.
+
+\bibitem[Canham(1970)]{canham1970minimum}
+Peter~B Canham.
+\newblock The minimum energy of bending as a possible explanation of the
+  biconcave shape of the human red blood cell.
+\newblock \emph{Journal of Theoretical Biology}, 26\penalty0 (1):\penalty0
+  61--81, 1970.
+
+\bibitem[Helfrich(1973)]{helfrich1973elastic}
+Wolfgang Helfrich.
+\newblock Elastic properties of lipid bilayers: theory and possible
+  experiments.
+\newblock \emph{Zeitschrift f{\"u}r Naturforschung C}, 28\penalty0
+  (11-12):\penalty0 693--703, 1973.
+
+\bibitem[Evans(1974)]{evans1974bending}
+Evan~A Evans.
+\newblock Bending resistance and chemically induced moments in membrane
+  bilayers.
+\newblock \emph{Biophysical journal}, 14\penalty0 (12):\penalty0 923, 1974.
+
+\bibitem[Galimzyanov et~al.(2016)Galimzyanov, Kuzmin, Pohl, and
+  Akimov]{galimzyanov2016elastic}
+Timur~R Galimzyanov, Peter~I Kuzmin, Peter Pohl, and Sergey~A Akimov.
+\newblock Elastic deformations of bolalipid membranes.
+\newblock \emph{Soft Matter}, 2016.
+
+\bibitem[Schmid(1998)]{schmid1998self}
+F~Schmid.
+\newblock Self-consistent-field theories for complex fluids.
+\newblock \emph{Journal of Physics: Condensed Matter}, 10\penalty0
+  (37):\penalty0 8105, 1998.
+
+\bibitem[Fredrickson et~al.(2002)Fredrickson, Ganesan, and
+  Drolet]{fredrickson2002field}
+Glenn~H Fredrickson, Venkat Ganesan, and Fran{\c{c}}ois Drolet.
+\newblock Field-theoretic computer simulation methods for polymers and complex
+  fluids.
+\newblock \emph{Macromolecules}, 35\penalty0 (1):\penalty0 16--39, 2002.
+
+\bibitem[Matsen(2001)]{matsen2001standard}
+Mark~W Matsen.
+\newblock The standard gaussian model for block copolymer melts.
+\newblock \emph{Journal of Physics: Condensed Matter}, 14\penalty0
+  (2):\penalty0 R21, 2001.
+
+\bibitem[Shi(2004)]{shi2004self}
+An-Chang Shi.
+\newblock Self-consistent field theory of block copolymers.
+\newblock \emph{Developments in Block Copolymer Science and Technology}, page
+  265, 2004.
+
+\bibitem[Gompper and Schick(2006)]{gompper2006soft}
+Gerhard Gompper and Michael Schick.
+\newblock Soft matter: Volume 1: Polymer melts and mixtures.
+\newblock 2006.
+
+\bibitem[Fredrickson(2006)]{fredrickson2006equilibrium}
+Glenn Fredrickson.
+\newblock The equilibrium theory of inhomogeneous polymers.
+\newblock 2006.
+
+\bibitem[Press(2007)]{press2007numerical}
+William~H Press.
+\newblock \emph{Numerical recipes 3rd edition: The art of scientific
+  computing}.
+\newblock Cambridge university press, 2007.
+
+\bibitem[Katsov et~al.(2004)Katsov, M{\"u}ller, and Schick]{katsov2004field}
+K~Katsov, M~M{\"u}ller, and M~Schick.
+\newblock Field theoretic study of bilayer membrane fusion. i. hemifusion
+  mechanism.
+\newblock \emph{Biophysical journal}, 87\penalty0 (5):\penalty0 3277--3290,
+  2004.
+
+\bibitem[Karatekin et~al.(2003)Karatekin, Sandre, Guitouni, Borghi, Puech, and
+  Brochard-Wyart]{karatekin2003cascades}
+Erdem Karatekin, Olivier Sandre, Hicham Guitouni, Nicolas Borghi, Pierre-Henri
+  Puech, and Fran{\c{c}}oise Brochard-Wyart.
+\newblock Cascades of transient pores in giant vesicles: line tension and
+  transport.
+\newblock \emph{Biophysical journal}, 84\penalty0 (3):\penalty0 1734--1749,
+  2003.
+
+\bibitem[de~Joannis et~al.(2006)de~Joannis, Jiang, and Kindt]{de2006coarse}
+Jason de~Joannis, Frank~Y Jiang, and James~T Kindt.
+\newblock Coarse-grained model simulations of mixed-lipid systems: composition
+  and line tension of a stabilized bilayer edge.
+\newblock \emph{Langmuir}, 22\penalty0 (3):\penalty0 998--1005, 2006.
+
+\bibitem[Matsen and Thompson(1999)]{matsen1999equilibrium}
+MW~Matsen and RB~Thompson.
+\newblock Equilibrium behavior of symmetric aba triblock copolymer melts.
+\newblock \emph{The Journal of chemical physics}, 111\penalty0 (15):\penalty0
+  7139--7146, 1999.
+
+\bibitem[Thompson et~al.(1992)Thompson, Wong, Humphry-Baker, Wheeler, Kim, and
+  Rananavare]{thompson1992tetraether}
+David~H Thompson, Kim~F Wong, Robin Humphry-Baker, Jeffery~J Wheeler, Jong~Mok
+  Kim, and Shankar~B Rananavare.
+\newblock Tetraether bolaform amphiphiles as models of archaebacterial membrane
+  lipids: Raman spectroscopy, phosphorus-31 nmr, x-ray scattering, and electron
+  microscopy.
+\newblock \emph{Journal of the American Chemical Society}, 114\penalty0
+  (23):\penalty0 9035--9042, 1992.
+
+\bibitem[Brownholland et~al.(2009)Brownholland, Longo, Struts, Justice,
+  Szleifer, Petrache, Brown, and Thompson]{brownholland2009phase}
+David~P Brownholland, Gabriel~S Longo, Andrey~V Struts, Matthew~J Justice, Igal
+  Szleifer, Horia~I Petrache, Michael~F Brown, and David~H Thompson.
+\newblock Phase separation in binary mixtures of bipolar and monopolar lipid
+  dispersions revealed by 2 h nmr spectroscopy, small angle x-ray scattering,
+  and molecular theory.
+\newblock \emph{Biophysical journal}, 97\penalty0 (10):\penalty0 2700--2709,
+  2009.
+
+\bibitem[Holland et~al.(2008)Holland, Struts, Brown, and
+  Thompson]{holland2008bolalipid}
+David~P Holland, Andrey~V Struts, Michael~F Brown, and David~H Thompson.
+\newblock Bolalipid membrane structure revealed by solid-state 2h nmr
+  spectroscopy.
+\newblock \emph{Journal of the American Chemical Society}, 130\penalty0
+  (14):\penalty0 4584--4585, 2008.
+
+\bibitem[Grzetic et~al.(2014)Grzetic, Wickham, and Shi]{grzetic2014statistical}
+Douglas~J Grzetic, Robert~A Wickham, and An-Chang Shi.
+\newblock Statistical dynamics of classical systems: A self-consistent field
+  approach.
+\newblock \emph{The Journal of chemical physics}, 140\penalty0 (24):\penalty0
+  244907, 2014.
+
+\bibitem[Singer and Nicolson(1972)]{singer1972fluid}
+S~Jonathan Singer and Garth~L Nicolson.
+\newblock The fluid mosaic model of the structure of cell membranes.
+\newblock \emph{Science}, 175\penalty0 (4023):\penalty0 720--731, 1972.
+
+\bibitem[Jacquemet et~al.(2009)Jacquemet, Barbeau, Lemi{\`e}gre, and
+  Benvegnu]{jacquemet2009archaeal}
+Alicia Jacquemet, Julie Barbeau, Lo{\"\i}c Lemi{\`e}gre, and Thierry Benvegnu.
+\newblock Archaeal tetraether bipolar lipids: Structures, functions and
+  applications.
+\newblock \emph{Biochimie}, 91\penalty0 (6):\penalty0 711--717, 2009.
+
+\bibitem[de~Vos(2014)]{de2014cell}
+Paul de~Vos.
+\newblock Cell encapsulation: ready for the next step.
+\newblock \emph{Advanced drug delivery reviews}, \penalty0 (67-68):\penalty0
+  1--2, 2014.
+
+\end{thebibliography}

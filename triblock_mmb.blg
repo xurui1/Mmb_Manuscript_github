@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2013)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: triblock_mmb.aux
+The style file: unsrtnat.bst
+Database file #1: triblock_mmbNotes.bib
+Database file #2: bibl.bib
+Warning--empty journal in gompper2006soft
+Warning--empty journal in fredrickson2006equilibrium
+Warning--there's a number but no volume in de2014cell
+You've used 43 entries,
+            2481 wiz_defined-function locations,
+            833 strings with 12311 characters,
+and the built_in function-call counts, 16799 in all, are:
+= -- 1415
+> -- 847
+< -- 19
++ -- 332
+- -- 246
+* -- 1402
+:= -- 2688
+add.period$ -- 129
+call.type$ -- 43
+change.case$ -- 85
+chr.to.int$ -- 43
+cite$ -- 46
+duplicate$ -- 820
+empty$ -- 1565
+format.name$ -- 305
+if$ -- 3513
+int.to.chr$ -- 1
+int.to.str$ -- 44
+missing$ -- 44
+newline$ -- 223
+num.names$ -- 129
+pop$ -- 320
+preamble$ -- 1
+purify$ -- 43
+quote$ -- 0
+skip$ -- 463
+stack$ -- 0
+substring$ -- 929
+swap$ -- 91
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 298
+warning$ -- 3
+while$ -- 151
+width$ -- 0
+write$ -- 560
+(There were 3 warnings)

@@ -1,0 +1,46 @@
+——————————————————————
+Contributors:
+——————————————————————
+
+Theory: 
+	worked out by Ashkan Dehghan [McMaster University]
+
+code: 
+	Is written by Ashkan Dehghan [McMaster University]
+	Language: C/C++
+
+
+This program is used for generate results for the following scientific publication:
+
+http://journals.aps.org/pre/abstract/10.1103/PhysRevE.91.022713
+
+
+——————————————————————
+What is being solved:
+——————————————————————
+
+The general purpose of the program is to solve the modified diffusion equation, as outlined in the theory.pdf file. In this program, we reduce the number of dimensions in which the system is, from 3D to 2D, by considering certain symmetry arguments. The cylindrical symmetry allows us to write the self-consistent equations in the r-z plane in the cylindrical geometry. 
+
+
+** An example of the Disk, Bilayer and Pore structures created using this program is included in this file (created by Matlab script):
+
+- Pore.png
+- Disk.png
+- Bilayer.png
+
+——————————————————————
+How to compile and call correct functions:
+——————————————————————
+
+Here is some basic information about the ADI_Bilayer code.To compile the code, type make in the command line.To test the code, use Mod0 option to see the functionality of the code. The program requires command line inputs, here is an example:./main B 0 4.5
+1st input-> Type of structure you want to study. B= Bilayer D=Disk P=Pore structure. All structures are created automatically.2nd input-> Calls the function, which performs a specific type of calculation. Mod 0= simple self-consistent field theory calculation. 1= Calculates the free energy as a function of radius of pore or disk. 2= Calculates the free energy as a function of chemical potential.3rd input-> Is the input chemical potential.——————————————————————
+Visualizing the results:
+——————————————————————We can visualize the results produced by this program using two method:1-	Gnuplot scripts2-	MATLAB scriptsGnuplot script, stored in PLOT file, allows you to visualize the data during runtime, as function of chosen parameters.MATALB script, converts the 2D structure a 3D form, and is mainly used for presentation purposes.Examples of the Disk, Bilayer and Pore structures created using this program is included in this file (created by Matlab script):
+
+- Pore.png
+- Disk.png
+- Bilayer.png
+
+Examples of the plots created by the Gnuplot scripts are also included in this file, as:
+
+- FreeEnergy.png

@@ -1,0 +1,712 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  2 MAY 2016 20:23
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**triblock_mmb.tex
+(./triblock_mmb.tex
+LaTeX2e <2011/06/27>
+Babel <3.9f> and hyphenation patterns for 78 languages loaded.
+(/usr/local/texlive/2013/texmf-dist/tex/latex/revtex/revtex4-1.cls
+Document Class: revtex4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revt
+ex4/ for documentation)
+ Copyright (c) 2009 The American Physical Society.
+ mailto:revtex@aps.org
+ Licensed under the LPPL:
+http://www.ctan.org/tex-archive/macros/latex/base/lppl.txt
+ Arthur Ogawa <arthur_ogawa at sbcglobal dot net>
+ Based on work by David Carlisle <david at dcarlisle.demon.co.uk>.
+ltxutil[2010/07/25/20:33:00 4.1r utilities package (portions licensed from W. E
+. Baxter web at superscript.com)]
+LaTeX Info: Redefining \@centercr on input line 308.
+Class revtex4-1 Info: Repairing broken LaTeX eqnarray on input line 358.
+\eqncolsep=\skip41
+Class revtex4-1 Info: Repairing hyperref-unfriendly LaTeX definition of \mpfoot
+note on input line 433.
+Class revtex4-1 Info: Repairing broken LateX \@sect on input line 755.
+\intertabularlinepenalty=\count79
+\@tbpen=\count80
+\@arstrutbox@hline=\box26
+Class revtex4-1 Info: Repairing broken LaTeX \@xbitor on input line 1786.
+Class revtex4-1 Info: Making \typeout \long on input line 2046.
+ltxfront[2010/07/25/20:33:00 4.1r frontmatter package (AO,DPC)]
+\c@affil=\count81
+\c@collab=\count82
+\absbox=\box27
+ltxgrid[2010/07/25/20:33:00 4.1r page grid package (portions licensed from W. E
+. Baxter web at superscript.com)]
+\c@linecount=\count83
+\output@latex=\toks14
+\box@size@1=\box28
+\box@size@2=\box29
+\@protection@box=\box30
+\@topmark@saved=\toks15
+\footins@saved=\box31
+\footins@recovered=\box32
+\column@recovered=\box33
+\pagesofar=\box34
+\footsofar=\box35
+\pagegrid@col=\count84
+Class revtex4-1 Info: Overriding \@vspace, \@vspacer, \@no@pgbk, \@newline, and
+ \\  on input line 5578.
+\c@part=\count85
+\c@section=\count86
+\c@subsection=\count87
+\c@subsubsection=\count88
+\c@paragraph=\count89
+\c@subparagraph=\count90
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count91
+\fbox@1=\box36
+\c@table=\count92
+\fbox@2=\box37
+\c@video=\count93
+\fbox@4=\box38
+\@bibdataout=\write3
+\widetext@top=\box39
+\widetext@bot=\box40
+Class revtex4-1 Info: Selecting society aps on input line 7542.
+(/usr/local/texlive/2013/texmf-dist/tex/latex/revtex/aps4-1.rtx
+File: aps4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revtex4/ for docu
+mentation)
+Class revtex4-1 Info: RevTeX society APS selected on input line 31.
+)
+
+Class revtex4-1 Warning: No journal specified, using default pra.
+
+Class revtex4-1 Info: APS journal PRA selected on input line 7545.
+
+Class revtex4-1 Warning: No type size specified, using default 10.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/revtex/aps10pt4-1.rtx
+File: aps10pt4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revtex4/ for 
+documentation)
+Class revtex4-1 Info: RevTeX pointsize 10pt selected on input line 30.
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/textcase/textcase.sty
+Package: textcase 2004/10/07 v0.07 Text only upper/lower case changing (DPC)
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip44
+\bibsep=\skip45
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count94
+)
+Class revtex4-1 Info: Repairing natbib's \BibitemShut on input line 7549.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/revtex/revsymb4-1.sty
+Package: revsymb4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revtex4/ f
+or documentation)
+LaTeX Info: Redefining \REV@mathfrak on input line 119.
+))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count95
+))
+\Gin@req@height=\dimen102
+\Gin@req@width=\dimen103
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/epsfig.sty
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+\epsfxsize=\dimen104
+\epsfysize=\dimen105
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/tools/dcolumn.sty
+Package: dcolumn 2001/05/28 v1.06 decimal alignment package (DPC)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/tools/array.sty
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen106
+\extrarowheight=\dimen107
+\NC@list=\toks17
+\extratabsurround=\skip46
+\backup@length=\skip47
+))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2004/02/26 v1.1c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup4
+\symboldletters=\mathgroup5
+\symboldsymbols=\mathgroup6
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 138.
+LaTeX Info: Redefining \bm on input line 204.
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup7
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip48
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks18
+\ex@=\dimen108
+)
+LaTeX Info: Redefining \text on input line 39.
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+LaTeX Info: Redefining \boldsymbol on input line 39.
+\pmbraise@=\dimen109
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count96
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count97
+\leftroot@=\count98
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count99
+\DOTSCASE@=\count100
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box41
+\strutbox@=\box42
+\big@size=\dimen110
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count101
+\c@MaxMatrixCols=\count102
+\dotsspace@=\muskip11
+\c@parentequation=\count103
+\dspbrk@lvl=\count104
+\tag@help=\toks19
+\row@=\count105
+\column@=\count106
+\maxfields@=\count107
+\andhelp@=\toks20
+\eqnshift@=\dimen111
+\alignsep@=\dimen112
+\tagshift@=\dimen113
+\tagwidth@=\dimen114
+\totwidth@=\dimen115
+\lineht@=\dimen116
+\@envbody=\toks21
+\multlinegap=\skip49
+\multlinetaggap=\skip50
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup8
+\symAMSb=\mathgroup9
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+LaTeX Info: Redefining \frak on input line 111.
+LaTeX Info: Redefining \Bbb on input line 113.
+))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/subfig/subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen117
+\captionmargin@=\dimen118
+\captionwidth=\dimen119
+\caption@tempdima=\dimen120
+\caption@indent=\dimen121
+\caption@parindent=\dimen122
+\caption@hangindent=\dimen123
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+)
+\c@KVtest=\count108
+\sf@farskip=\skip51
+\sf@captopadj=\dimen124
+\sf@capskip=\skip52
+\sf@nearskip=\skip53
+\c@subfigure=\count109
+\c@subfigure@save=\count110
+\c@lofdepth=\count111
+\c@subtable=\count112
+\c@subtable@save=\count113
+\c@lotdepth=\count114
+\sf@top=\skip54
+\sf@bottom=\skip55
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
+Class revtex4-1 Info: Patching array package. on input line 25.
+Class revtex4-1 Info: Robustifying \LaTeX's \boldmath command on input line 25.
+
+Class revtex4-1 Info: cite was not loaded (OK!) on input line 25.
+Class revtex4-1 Info: mcite was not loaded (OK!) on input line 25.
+Class revtex4-1 Info: multicol was not loaded (OK!) on input line 25.
+
+(./triblock_mmb.aux)
+\openout1 = `triblock_mmb.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+
+(/usr/local/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count115
+\scratchdimen=\dimen125
+\scratchbox=\box43
+\nofMPsegments=\count116
+\nofMParguments=\count117
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count118
+\MPscratchDim=\dimen126
+\MPnumerator=\count119
+\makeMPintoPDFobject=\count120
+\everyMPtoPDFconversion=\toks24
+) (/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: End \AtBeginDocument code.
+\openout3 = `triblock_mmbNotes.bib'.
+
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 44.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/jknapltx/ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 44.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 44.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+
+Class revtex4-1 Warning: If you want your PACS to appear in your output, use do
+cument class option showpacs.
+
+
+Underfull \hbox (badness 1983) in paragraph at lines 53--54
+[]\OT1/cmr/m/n/10 In this ar-ti-cle, we in-ves-ti-gate the ef-fect of the
+ []
+
+
+Underfull \hbox (badness 1102) in paragraph at lines 55--57
+[]\OT1/cmr/m/n/10 Numerous ex-per-i-ments have been per-formed with
+ []
+
+[1{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+[2]
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 123.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 123.
+
+[3]
+Package epstopdf Info: Source file: <images/loopandbridge_polymer.eps>
+(epstopdf)                    date: 2016-03-09 20:50:19
+(epstopdf)                    size: 35306 bytes
+(epstopdf)             Output file: <images/loopandbridge_polymer-eps-converted
+-to.pdf>
+(epstopdf)                    date: 2016-04-28 14:28:38
+(epstopdf)                    size: 15629 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/loopandbridge_polym
+er-eps-converted-to.pdf images/loopandbridge_polymer.eps>
+(epstopdf)             \includegraphics on input line 166.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/loopandbridge_polymer-eps-converted-to.pdf, id=28, 651.43375pt x 492.84
+125pt>
+File: images/loopandbridge_polymer-eps-converted-to.pdf Graphic file (type pdf)
+
+ <use images/loopandbridge_polymer-eps-converted-to.pdf>
+Package pdftex.def Info: images/loopandbridge_polymer-eps-converted-to.pdf used
+ on input line 166.
+(pdftex.def)             Requested size: 246.0pt x 186.10846pt.
+ [4 <./images/loopandbridge_polymer-eps-converted-to.pdf>] [5]
+Package epstopdf Info: Source file: <images/ABmmb.eps>
+(epstopdf)                    date: 2016-05-01 10:45:59
+(epstopdf)                    size: 15561 bytes
+(epstopdf)             Output file: <images/ABmmb-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-05-01 14:54:40
+(epstopdf)                    size: 10320 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/ABmmb-eps-converted
+-to.pdf images/ABmmb.eps>
+(epstopdf)             \includegraphics on input line 261.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/ABmmb-eps-converted-to.pdf, id=41, 562.1pt x 421.575pt>
+File: images/ABmmb-eps-converted-to.pdf Graphic file (type pdf)
+
+<use images/ABmmb-eps-converted-to.pdf>
+Package pdftex.def Info: images/ABmmb-eps-converted-to.pdf used on input line 2
+61.
+(pdftex.def)             Requested size: 246.0pt x 184.49649pt.
+
+Overfull \hbox (6.16663pt too wide) in paragraph at lines 261--262
+ [][] 
+ []
+
+Package epstopdf Info: Source file: <images/ABAmmb.eps>
+(epstopdf)                    date: 2016-05-01 10:47:56
+(epstopdf)                    size: 15563 bytes
+(epstopdf)             Output file: <images/ABAmmb-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-05-01 14:54:41
+(epstopdf)                    size: 10354 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/ABAmmb-eps-converte
+d-to.pdf images/ABAmmb.eps>
+(epstopdf)             \includegraphics on input line 267.
+Package epstopdf Info: Output file is already uptodate.
+<images/ABAmmb-eps-converted-to.pdf, id=43, 562.1pt x 421.575pt>
+File: images/ABAmmb-eps-converted-to.pdf Graphic file (type pdf)
+
+<use images/ABAmmb-eps-converted-to.pdf>
+Package pdftex.def Info: images/ABAmmb-eps-converted-to.pdf used on input line 
+267.
+(pdftex.def)             Requested size: 246.0pt x 184.49649pt.
+
+Overfull \hbox (6.16663pt too wide) in paragraph at lines 267--268
+ [][] 
+ []
+
+Package epstopdf Info: Source file: <images/fE_C.eps>
+(epstopdf)                    date: 2016-05-01 10:06:31
+(epstopdf)                    size: 19979 bytes
+(epstopdf)             Output file: <images/fE_C-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-05-01 10:13:44
+(epstopdf)                    size: 11565 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/fE_C-eps-converted-
+to.pdf images/fE_C.eps>
+(epstopdf)             \includegraphics on input line 280.
+Package epstopdf Info: Output file is already uptodate.
+<images/fE_C-eps-converted-to.pdf, id=45, 562.1pt x 421.575pt>
+File: images/fE_C-eps-converted-to.pdf Graphic file (type pdf)
+
+<use images/fE_C-eps-converted-to.pdf>
+Package pdftex.def Info: images/fE_C-eps-converted-to.pdf used on input line 28
+0.
+(pdftex.def)             Requested size: 246.0pt x 184.49649pt.
+ [6 <./images/ABmmb-eps-converted-to.pdf> <./images/ABAmmb-eps-converted-to.pdf
+>]
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 287.
+
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 287.
+
+
+Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
+
+Package epstopdf Info: Source file: <images/bending_mod.eps>
+(epstopdf)                    date: 2016-05-01 09:11:27
+(epstopdf)                    size: 15747 bytes
+(epstopdf)             Output file: <images/bending_mod-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-05-01 09:11:48
+(epstopdf)                    size: 10175 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/bending_mod-eps-con
+verted-to.pdf images/bending_mod.eps>
+(epstopdf)             \includegraphics on input line 290.
+Package epstopdf Info: Output file is already uptodate.
+<images/bending_mod-eps-converted-to.pdf, id=71, 562.1pt x 421.575pt>
+File: images/bending_mod-eps-converted-to.pdf Graphic file (type pdf)
+
+<use images/bending_mod-eps-converted-to.pdf>
+Package pdftex.def Info: images/bending_mod-eps-converted-to.pdf used on input 
+line 290.
+(pdftex.def)             Requested size: 246.0pt x 184.49649pt.
+Package epstopdf Info: Source file: <images/Gaussian_mod.eps>
+(epstopdf)                    date: 2016-05-01 09:18:46
+(epstopdf)                    size: 17838 bytes
+(epstopdf)             Output file: <images/Gaussian_mod-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-05-01 09:19:09
+(epstopdf)                    size: 12957 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/Gaussian_mod-eps-co
+nverted-to.pdf images/Gaussian_mod.eps>
+(epstopdf)             \includegraphics on input line 303.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/Gaussian_mod-eps-converted-to.pdf, id=72, 562.1pt x 421.575pt>
+File: images/Gaussian_mod-eps-converted-to.pdf Graphic file (type pdf)
+
+<use images/Gaussian_mod-eps-converted-to.pdf>
+Package pdftex.def Info: images/Gaussian_mod-eps-converted-to.pdf used on input
+ line 303.
+(pdftex.def)             Requested size: 246.0pt x 184.49649pt.
+Package epstopdf Info: Source file: <images/kg_km.eps>
+(epstopdf)                    date: 2016-05-01 09:24:15
+(epstopdf)                    size: 15019 bytes
+(epstopdf)             Output file: <images/kg_km-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-05-01 09:24:34
+(epstopdf)                    size: 9504 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/kg_km-eps-converted
+-to.pdf images/kg_km.eps>
+(epstopdf)             \includegraphics on input line 313.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/kg_km-eps-converted-to.pdf, id=73, 562.1pt x 421.575pt>
+File: images/kg_km-eps-converted-to.pdf Graphic file (type pdf)
+
+<use images/kg_km-eps-converted-to.pdf>
+Package pdftex.def Info: images/kg_km-eps-converted-to.pdf used on input line 3
+13.
+(pdftex.def)             Requested size: 246.0pt x 184.49649pt.
+ [7 <./images/fE_C-eps-converted-to.pdf> <./images/bending_mod-eps-converted-to
+.pdf> <./images/Gaussian_mod-eps-converted-to.pdf>]
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 323.
+
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 323.
+
+
+Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
+
+<images/mumix_heatmap.png, id=114, 1050.92625pt x 800.9925pt>
+File: images/mumix_heatmap.png Graphic file (type png)
+
+<use images/mumix_heatmap.png>
+Package pdftex.def Info: images/mumix_heatmap.png used on input line 326.
+(pdftex.def)             Requested size: 246.0pt x 187.4877pt.
+Package epstopdf Info: Source file: <images/Pore.eps>
+(epstopdf)                    date: 2016-05-01 08:04:53
+(epstopdf)                    size: 195139 bytes
+(epstopdf)             Output file: <images/Pore-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-05-01 08:05:06
+(epstopdf)                    size: 43921 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/Pore-eps-converted-
+to.pdf images/Pore.eps>
+(epstopdf)             \includegraphics on input line 340.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/Pore-eps-converted-to.pdf, id=116, 411.5375pt x 323.2075pt>
+File: images/Pore-eps-converted-to.pdf Graphic file (type pdf)
+
+<use images/Pore-eps-converted-to.pdf>
+Package pdftex.def Info: images/Pore-eps-converted-to.pdf used on input line 34
+0.
+(pdftex.def)             Requested size: 246.0pt x 193.20102pt.
+ [8 <./images/kg_km-eps-converted-to.pdf> <./images/mumix_heatmap.png> <./image
+s/Pore-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <images/Pore_fE_R.eps>
+(epstopdf)                    date: 2016-05-01 15:12:29
+(epstopdf)                    size: 21546 bytes
+(epstopdf)             Output file: <images/Pore_fE_R-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-05-01 15:12:57
+(epstopdf)                    size: 13844 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/Pore_fE_R-eps-conve
+rted-to.pdf images/Pore_fE_R.eps>
+(epstopdf)             \includegraphics on input line 350.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/Pore_fE_R-eps-converted-to.pdf, id=141, 562.1pt x 421.575pt>
+File: images/Pore_fE_R-eps-converted-to.pdf Graphic file (type pdf)
+
+<use images/Pore_fE_R-eps-converted-to.pdf>
+Package pdftex.def Info: images/Pore_fE_R-eps-converted-to.pdf used on input li
+ne 350.
+(pdftex.def)             Requested size: 246.0pt x 184.49649pt.
+Package epstopdf Info: Source file: <images/line_tension.eps>
+(epstopdf)                    date: 2016-05-01 15:19:50
+(epstopdf)                    size: 10299 bytes
+(epstopdf)             Output file: <images/line_tension-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-05-01 15:20:24
+(epstopdf)                    size: 8352 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/line_tension-eps-co
+nverted-to.pdf images/line_tension.eps>
+(epstopdf)             \includegraphics on input line 360.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/line_tension-eps-converted-to.pdf, id=142, 562.1pt x 421.575pt>
+File: images/line_tension-eps-converted-to.pdf Graphic file (type pdf)
+
+<use images/line_tension-eps-converted-to.pdf>
+Package pdftex.def Info: images/line_tension-eps-converted-to.pdf used on input
+ line 360.
+(pdftex.def)             Requested size: 246.0pt x 184.49649pt.
+Package epstopdf Info: Source file: <images/loop_fraction.eps>
+(epstopdf)                    date: 2016-05-01 15:35:37
+(epstopdf)                    size: 14604 bytes
+(epstopdf)             Output file: <images/loop_fraction-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2016-05-01 15:36:07
+(epstopdf)                    size: 9336 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/loop_fraction-eps-c
+onverted-to.pdf images/loop_fraction.eps>
+(epstopdf)             \includegraphics on input line 377.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/loop_fraction-eps-converted-to.pdf, id=143, 562.1pt x 421.575pt>
+File: images/loop_fraction-eps-converted-to.pdf Graphic file (type pdf)
+
+<use images/loop_fraction-eps-converted-to.pdf>
+Package pdftex.def Info: images/loop_fraction-eps-converted-to.pdf used on inpu
+t line 377.
+(pdftex.def)             Requested size: 246.0pt x 184.49649pt.
+ [9 <./images/Pore_fE_R-eps-converted-to.pdf> <./images/line_tension-eps-conver
+ted-to.pdf>]
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 384.
+
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 384.
+
+
+Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
+
+[10 <./images/loop_fraction-eps-converted-to.pdf>] (./triblock_mmb.bbl
+Underfull \hbox (badness 2310) in paragraph at lines 97--101
+ []\OT1/cmr/m/n/9 William F Berkowitz, Dongfeng Pan, and Robert
+ []
+
+[11]
+Underfull \hbox (badness 1062) in paragraph at lines 114--119
+ \OT1/cmr/m/n/9 Sta-bil-ity and phase sep-a-ra-tion in mixed monopo-lar
+ []
+
+Missing character: There is no Ã in font cmr9!
+Missing character: There is no Å in font cmr9!
+
+Underfull \hbox (badness 1199) in paragraph at lines 140--143
+ \OT1/cmr/m/n/9 Line ten-sion of mul-ti-com-po-nent bi-layer mem-branes.
+ []
+
+
+Underfull \hbox (badness 2229) in paragraph at lines 220--226
+ \OT1/cmr/m/n/9 Nico-las Borghi, Pierre-Henri Puech, and Fran^^Xcoise
+ []
+
+) [12] (./triblock_mmb.aux) ) 
+Here is how much of TeX's memory you used:
+ 5603 strings out of 493315
+ 81070 string characters out of 6137904
+ 188227 words of memory out of 5000000
+ 8925 multiletter control sequences out of 15000+600000
+ 17450 words of font info for 67 fonts, out of 8000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 38i,16n,47p,1484b,376s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2013/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmbx9.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmex10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmmi10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmmi5.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmmi6.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmmi7.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmmi9.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmr10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmr7.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+r8.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.
+pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.p
+fb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb
+></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><
+/usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></u
+sr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr
+/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb><
+/usr/local/texlive/2013/texmf-dist/fonts/type1/public/rsfs/rsfs10.pfb>
+Output written on triblock_mmb.pdf (12 pages, 642434 bytes).
+PDF statistics:
+ 251 PDF objects out of 1000 (max. 8388607)
+ 173 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 73 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -1,0 +1,33 @@
+reset
+
+set term postscript enhanced color
+set output "~/Desktop/fE.ps"
+
+
+
+path= "/1/home/dehgha2/Desktop/SCFT_CODES/ADI_Bilayer/ADI_Bilayer/RESULTS/Tests/Fig7_Li_Paper/Mod1_Results_fig_7_Disk.dat" #Landua
+
+set xlabel 'R/d'  font ",32" offset -1.5,-0.1
+set ylabel 'F^DA/(2{/Symbol p}d^3)'  font ",32" offset 0,0
+
+set xr [0.0 : 20.0]
+set yr [0.0 : 2.0]
+
+unset key
+set pointsize 2.0
+set lmargin 10
+set bmargin 4
+
+
+#++++++++++++++++++++++++++++++++++++ f1
+a1 = 0.0
+b1 = 0.0
+f1(x) = a1*x + b1 
+fit [0.0 : 30.0] f1(x) path using ($1/4.2):(2.0*($2-$3)/(2.0*3.14*4.2**3)) via a1, b1
+#++++++++++++++++++++++++++++++++++++
+
+
+plot f1(x)lc -1 lw 3,\
+ path using ($1/4.2):(2.0*($2-$3)/(2.0*3.14*4.2**3)) w lp lc -1 pt 6
+
+
